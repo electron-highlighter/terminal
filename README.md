@@ -1,9 +1,9 @@
-Electron Terminal Colors
-========================
+# Electron Terminal Colors
 
-Terminal colors based on my [Electron syntax theme](http://www.github.com/mmcbride1007/electron-highlighter-syntax) for Atom. Includes themes for both the default Terminal.app as well as iTerm2.
+Terminal colors based on my [Electron syntax theme](http://www.github.com/electron-highlighter/atom) for Atom. Includes themes for Terminal.app as well as iTerm2 on macOS and Gnome terminal on Linux.
 
-> NB: These color schemes are built for use on Mac OS X
+> [!NOTE]
+> These color schemes are built for use on macOS
 
 ## Usage
 
