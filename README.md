@@ -2,6 +2,8 @@
 
 Terminal colors based on the [Electron syntax theme](http://www.github.com/electron-highlighter/). Includes themes for Terminal.app as well as iTerm2 on macOS and Gnome terminal on Linux.
 
+![Screenshot](/screenshot.png)
+
 ## Usage
 
 Below you will find steps to install this theme in Terminal.app and iTerm2.
